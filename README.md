@@ -8,4 +8,4 @@
 FrancisUzoigwe/FrancisUzoigwe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<a href="https://app.daily.dev/francis_uzoigwe28"><img src="https://api.daily.dev/devcards/72d1bb06a1274dfeb93d23c49e55f5b3.png?r=17z" width="400" alt="Francis Uzoigwe's Dev Card"/></a>
+
