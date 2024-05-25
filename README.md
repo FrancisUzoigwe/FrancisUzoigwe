@@ -22,9 +22,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/francisuzoigwe1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="francisuzoigwe1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/francis-uzoigwe-2b3b9b246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/francis-uzoigwe-2b3b9b246" height="30" width="40" /></a>
-<a href="https://fb.com/https://web.facebook.com/francisuzoigwe.28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/francisuzoigwe.28" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/francisuzoigwe.28/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/francisuzoigwe.28/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/francis-uzoigwe-2b3b9b246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/francis-uzoigwe-2b3b9b246" height="30" width="40" /></a>
+<a href="https://web.facebook.com/francisuzoigwe.28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/francisuzoigwe.28" height="30" width="40" /></a>
+<a href="https://instagram.com/francisuzoigwe.28/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/francisuzoigwe.28/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
